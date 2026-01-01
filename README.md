@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any queries regarding the paper or the code, please open an issue on this repository or contact the authors directly at:
 
-- [Lukas Bahr](mailto:lukas.bahr@bmw.de)#
+- [Lukas Bahr](mailto:lukas.bahr@bmw.de)
